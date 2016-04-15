@@ -54,6 +54,10 @@ p.updates {
 	padding: 0;
 }
 
+.strong,
+p .strong {
+	font-weight: bold;
+}
  
 #logo {
 	width: 260px;
