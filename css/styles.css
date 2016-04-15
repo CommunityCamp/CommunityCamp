@@ -59,7 +59,7 @@ p .strong {
 	font-weight: bold;
 }
  
-a {
+p a {
 	color: white;
 	border-bottom: 1px dotted white;
 	text-decoration: none;
